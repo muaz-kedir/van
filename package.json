@@ -1,0 +1,11 @@
+{
+  "name": "vanguard-launchpad",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "install": "npm install --prefix vanguard-launchpad-main",
+    "dev": "npm run dev --prefix vanguard-launchpad-main",
+    "server": "npm run server --prefix vanguard-launchpad-main",
+    "server:dev": "npm run server:dev --prefix vanguard-launchpad-main"
+  }
+}
